@@ -3,6 +3,11 @@ In this Exploratory Data Analysis (EDA) and a variety of Model Classifications i
 
 This is an extensive analysis of 8 Classification techniques.
 
+# Data
+<img width="1003" alt="image" src="https://github.com/Amrapali03/Heart-Failure-Prediction/assets/114306627/e3156752-a7b8-4f92-be94-5d2bfd38f624">
+
+
+
 # Contents:
 <a id="toc"></a>
 
