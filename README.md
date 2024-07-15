@@ -17,12 +17,12 @@ This is an extensive analysis of 8 Classification techniques.
 
 
 3. EXPLORATORY ANALYSIS
-    3.1 A General Look at the Data
-    3.2 The Examination of Target Variable
-    3.3 The Examination of Numerical Features
-    3.4 The Examination of Skewness & Kurtosis
-    3.5 The Examination of Numerical Features
-    3.6 Dummy Variables Operation
+    - 3.1 A General Look at the Data
+    - 3.2 The Examination of Target Variable
+    - 3.3 The Examination of Numerical Features
+    - 3.4 The Examination of Skewness & Kurtosis
+    - 3.5 The Examination of Numerical Features
+    - 3.6 Dummy Variables Operation
 
 ![image](https://github.com/user-attachments/assets/eb53ba0b-ca81-41a1-b225-deeb576655dc)
 
@@ -33,14 +33,14 @@ This is an extensive analysis of 8 Classification techniques.
 5. FEATURE SCALING
 
 6. MODELLING
-    6.1 The Implementation of Logistic Regression (LR)
-    6.2 The Implementation of Support Vector Machine (SVM)
-    6.3 The Implementation of Decision Tree (DT)
-    6.4 The Implementation of Random Forest (RF)
-    6.5 The Implementation of K-Nearest Neighbor (KNN)
-    6.6 The Implementation of Gradient Boosting (GB)
-    6.7 The Implementation of AdaBoosting (AB)
-    6.8 The Implementation of XGBoosting (XGB)
+    - 6.1 The Implementation of Logistic Regression (LR)
+    - 6.2 The Implementation of Support Vector Machine (SVM)
+    - 6.3 The Implementation of Decision Tree (DT)
+    - 6.4 The Implementation of Random Forest (RF)
+    - 6.5 The Implementation of K-Nearest Neighbor (KNN)
+    - 6.6 The Implementation of Gradient Boosting (GB)
+    - 6.7 The Implementation of AdaBoosting (AB)
+    - 6.8 The Implementation of XGBoosting (XGB)
 
 7. THE COMPARISON OF MODELS
 ![image](https://github.com/user-attachments/assets/20dde950-15f8-462a-89f8-1a1de04af9db)
