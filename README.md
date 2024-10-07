@@ -1,4 +1,4 @@
-# Heart-Failure-Prediction
+# Heart-Disease-Prediction
 This study aims to predict the accuracy of demographic and clinical factors leading to heart disease using various machine-learning models. Conducted a thorough exploratory analysis including skewness and kurtosis, dummy encoding of categorical variables, feature scaling, cross-validations, feature importance, and validated the evaluation metrics. Visual comparisons of model results guided selection for optimal heart disease prediction with the GradientBoosting model providing an accuracy of 91.9%.
 
 In this Exploratory Data Analysis (EDA) and a variety of Model Classifications including Logistic Regression (LR), Support Vector Machine (SVM), AdaBoosting (AB), GradientBoosting (GB), K-Nearest Neighbors (KNN), Random Forest (RF), Decision Tree (DT), XGBoost (XGB), this study will examine the dataset named as "Heart Failure Prediction".
